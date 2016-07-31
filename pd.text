@@ -1,0 +1,1732 @@
+
+k=0  policy=pdcfa
+-----------------
+benchmarks/gcfa2/mj09.scm
+[mj09, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 29 nodes and 29 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 30 nodes and 30 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 31 nodes and 31 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 32 nodes and 32 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 33 nodes and 33 edges.
+Map()
+[mj09, 0-PDCFA] Dyck state graph: 33 nodes and 33 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/eta.scm
+[eta, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[eta, 0-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/kcfa2.scm
+[kcfa2, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 27 nodes and 26 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 29 nodes and 28 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 30 nodes and 29 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 31 nodes and 30 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 32 nodes and 31 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 33 nodes and 32 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 34 nodes and 33 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 35 nodes and 34 edges.
+Map()
+[kcfa2, 0-PDCFA] Dyck state graph: 35 nodes and 34 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/kcfa3.scm
+[kcfa3, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 26 nodes and 26 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 27 nodes and 27 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 28 nodes and 28 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 29 nodes and 29 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 30 nodes and 30 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 31 nodes and 31 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 32 nodes and 32 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 33 nodes and 33 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 34 nodes and 34 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 35 nodes and 35 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 36 nodes and 36 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 37 nodes and 37 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 38 nodes and 38 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 39 nodes and 39 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 40 nodes and 40 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 41 nodes and 41 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 42 nodes and 42 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 43 nodes and 43 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 44 nodes and 44 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 45 nodes and 45 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 46 nodes and 46 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 47 nodes and 47 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 48 nodes and 48 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 48 nodes and 49 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 49 nodes and 50 edges.
+Map()
+[kcfa3, 0-PDCFA] Dyck state graph: 49 nodes and 50 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/blur.scm
+[blur, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 27 nodes and 26 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 29 nodes and 28 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 30 nodes and 29 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 31 nodes and 30 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 32 nodes and 31 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 33 nodes and 32 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 34 nodes and 33 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 35 nodes and 34 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 37 nodes and 36 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 39 nodes and 38 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 43 nodes and 42 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 46 nodes and 46 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 48 nodes and 48 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 51 nodes and 51 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 52 nodes and 54 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 54 nodes and 56 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 56 nodes and 58 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 59 nodes and 61 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 61 nodes and 64 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 63 nodes and 66 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 64 nodes and 68 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 66 nodes and 70 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 68 nodes and 72 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 71 nodes and 75 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 73 nodes and 78 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 74 nodes and 80 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 76 nodes and 82 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 77 nodes and 85 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 78 nodes and 88 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 80 nodes and 91 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 84 nodes and 95 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 85 nodes and 103 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 86 nodes and 105 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 88 nodes and 109 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 91 nodes and 112 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 92 nodes and 115 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 95 nodes and 118 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 97 nodes and 121 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 97 nodes and 124 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 98 nodes and 126 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 99 nodes and 127 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 99 nodes and 129 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 99 nodes and 130 edges.
+Map()
+[blur, 0-PDCFA] Dyck state graph: 99 nodes and 130 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/loop2.scm
+[loop2, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 27 nodes and 27 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 29 nodes and 29 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 32 nodes and 32 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 35 nodes and 35 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 37 nodes and 38 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 40 nodes and 41 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 43 nodes and 44 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 45 nodes and 46 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 48 nodes and 49 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 51 nodes and 52 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 53 nodes and 55 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 56 nodes and 58 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 59 nodes and 62 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 61 nodes and 65 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 63 nodes and 67 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 65 nodes and 69 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 66 nodes and 71 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 67 nodes and 72 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 69 nodes and 74 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 70 nodes and 76 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 70 nodes and 77 edges.
+Map()
+[loop2, 0-PDCFA] Dyck state graph: 70 nodes and 77 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/sat.scm
+[sat, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 22 nodes and 22 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 23 nodes and 23 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 26 nodes and 26 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 27 nodes and 29 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 28 nodes and 30 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 32 nodes and 34 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 33 nodes and 38 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 34 nodes and 39 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 35 nodes and 40 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 36 nodes and 41 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 37 nodes and 42 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 38 nodes and 43 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 39 nodes and 44 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 40 nodes and 45 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 41 nodes and 46 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 42 nodes and 47 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 46 nodes and 51 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 50 nodes and 55 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 54 nodes and 59 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 64 nodes and 72 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 68 nodes and 82 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 72 nodes and 86 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 76 nodes and 90 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 80 nodes and 94 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 84 nodes and 98 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 88 nodes and 102 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 92 nodes and 106 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 99 nodes and 113 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 105 nodes and 120 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 111 nodes and 128 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 132 nodes and 154 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 147 nodes and 175 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 162 nodes and 190 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 194 nodes and 232 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 207 nodes and 264 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 220 nodes and 277 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 232 nodes and 290 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 244 nodes and 302 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 254 nodes and 314 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 264 nodes and 324 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 274 nodes and 336 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 289 nodes and 357 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 303 nodes and 374 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 318 nodes and 392 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 357 nodes and 448 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 372 nodes and 485 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 387 nodes and 500 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 410 nodes and 533 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 421 nodes and 556 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 434 nodes and 569 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 442 nodes and 584 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 448 nodes and 592 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 452 nodes and 598 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 456 nodes and 602 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 460 nodes and 609 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 473 nodes and 628 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 481 nodes and 641 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 493 nodes and 654 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 509 nodes and 692 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 515 nodes and 711 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 519 nodes and 719 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 522 nodes and 726 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 524 nodes and 729 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 526 nodes and 731 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 528 nodes and 733 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 529 nodes and 735 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 532 nodes and 738 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 533 nodes and 743 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 534 nodes and 745 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 538 nodes and 751 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 539 nodes and 755 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 540 nodes and 756 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 540 nodes and 760 edges.
+Map()
+[sat, 0-PDCFA] Dyck state graph: 540 nodes and 760 edges.
+Map()
+
+The analysis has taken 4 seconds.
+
+Computing statistics
+
+benchmarks/larceny/ack.sch
+[ack, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 15 nodes and 15 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 15 nodes and 16 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 16 nodes and 18 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 17 nodes and 19 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 18 nodes and 20 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 20 nodes and 22 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 22 nodes and 25 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 24 nodes and 29 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 25 nodes and 31 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 25 nodes and 32 edges.
+Map()
+[ack, 0-PDCFA] Dyck state graph: 25 nodes and 32 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/larceny/cpstak.sch
+[cpstak, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 22 nodes and 22 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 23 nodes and 24 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 24 nodes and 25 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 26 nodes and 27 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 29 nodes and 31 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 32 nodes and 34 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 34 nodes and 36 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 38 nodes and 40 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 44 nodes and 49 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 46 nodes and 55 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 48 nodes and 57 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 52 nodes and 61 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 58 nodes and 71 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 59 nodes and 77 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 60 nodes and 78 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 62 nodes and 80 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 64 nodes and 85 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 64 nodes and 87 edges.
+Map()
+[cpstak, 0-PDCFA] Dyck state graph: 64 nodes and 87 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/larceny/tak.sch
+[tak, 0-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 11 nodes and 11 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 12 nodes and 12 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 13 nodes and 13 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 14 nodes and 14 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 15 nodes and 15 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 17 nodes and 17 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 19 nodes and 19 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 20 nodes and 21 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 21 nodes and 23 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 22 nodes and 24 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 24 nodes and 26 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 26 nodes and 28 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 27 nodes and 30 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 29 nodes and 32 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 32 nodes and 35 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 35 nodes and 40 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 37 nodes and 44 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 37 nodes and 47 edges.
+Map()
+[tak, 0-PDCFA] Dyck state graph: 37 nodes and 47 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+
+k=1  policy=pdcfa
+-----------------
+benchmarks/gcfa2/mj09.scm
+[mj09, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 30 nodes and 29 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 34 nodes and 33 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 36 nodes and 37 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 40 nodes and 41 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 42 nodes and 45 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 43 nodes and 47 edges.
+Map()
+[mj09, 1-PDCFA] Dyck state graph: 43 nodes and 47 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/eta.scm
+[eta, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[eta, 1-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/kcfa2.scm
+[kcfa2, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 16 nodes and 16 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 17 nodes and 17 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 18 nodes and 18 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 20 nodes and 20 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 21 nodes and 22 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 22 nodes and 23 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 23 nodes and 24 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 24 nodes and 25 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 26 nodes and 27 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 28 nodes and 29 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 33 nodes and 34 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 35 nodes and 39 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 37 nodes and 41 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 41 nodes and 45 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 45 nodes and 49 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 55 nodes and 61 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 59 nodes and 73 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 65 nodes and 81 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 73 nodes and 92 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 87 nodes and 113 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 87 nodes and 127 edges.
+Map()
+[kcfa2, 1-PDCFA] Dyck state graph: 87 nodes and 127 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/kcfa3.scm
+[kcfa3, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 18 nodes and 18 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 19 nodes and 19 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 20 nodes and 20 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 21 nodes and 21 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 23 nodes and 23 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 25 nodes and 25 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 30 nodes and 30 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 32 nodes and 35 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 36 nodes and 39 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 40 nodes and 43 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 47 nodes and 55 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 51 nodes and 67 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 55 nodes and 71 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 59 nodes and 75 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 63 nodes and 79 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 71 nodes and 87 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 79 nodes and 95 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 87 nodes and 103 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 107 nodes and 123 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 125 nodes and 143 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 165 nodes and 203 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 177 nodes and 243 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 209 nodes and 275 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 238 nodes and 307 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 290 nodes and 416 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 310 nodes and 492 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 350 nodes and 532 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 390 nodes and 572 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 430 nodes and 612 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 542 nodes and 744 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 658 nodes and 896 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 938 nodes and 1384 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 996 nodes and 1740 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 1200 nodes and 1944 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 1373 nodes and 2148 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 1761 nodes and 2962 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 1761 nodes and 3490 edges.
+Map()
+[kcfa3, 1-PDCFA] Dyck state graph: 1761 nodes and 3490 edges.
+Map()
+
+The analysis has taken 8 seconds.
+
+Computing statistics
+
+benchmarks/gcfa2/blur.scm
+[blur, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 27 nodes and 26 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 29 nodes and 28 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 30 nodes and 29 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 31 nodes and 30 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 32 nodes and 31 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 33 nodes and 32 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 34 nodes and 33 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 35 nodes and 34 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 36 nodes and 35 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 37 nodes and 36 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 39 nodes and 38 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 41 nodes and 40 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 43 nodes and 42 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 45 nodes and 44 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 47 nodes and 46 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 48 nodes and 47 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 49 nodes and 48 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 50 nodes and 49 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 50 nodes and 50 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 51 nodes and 51 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 52 nodes and 52 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 53 nodes and 53 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 54 nodes and 54 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 55 nodes and 55 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 56 nodes and 56 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 57 nodes and 57 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 58 nodes and 58 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 58 nodes and 59 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 59 nodes and 60 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 61 nodes and 62 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 64 nodes and 65 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 66 nodes and 70 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 66 nodes and 72 edges.
+Map()
+[blur, 1-PDCFA] Dyck state graph: 66 nodes and 72 edges.
+Map()
+
+The analysis has taken less than one second.
+
+Computing statistics
+
+benchmarks/gcfa2/loop2.scm
+[loop2, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 27 nodes and 27 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 29 nodes and 29 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 32 nodes and 32 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 35 nodes and 35 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 39 nodes and 39 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 44 nodes and 44 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 51 nodes and 51 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 56 nodes and 57 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 62 nodes and 65 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 69 nodes and 74 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 75 nodes and 84 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 82 nodes and 91 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 92 nodes and 102 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 100 nodes and 112 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 107 nodes and 125 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 116 nodes and 138 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 125 nodes and 152 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 133 nodes and 160 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 147 nodes and 174 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 158 nodes and 188 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 167 nodes and 207 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 179 nodes and 221 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 190 nodes and 239 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 198 nodes and 250 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 206 nodes and 262 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 215 nodes and 275 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 224 nodes and 291 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 233 nodes and 300 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 250 nodes and 317 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 260 nodes and 334 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 261 nodes and 353 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 267 nodes and 363 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 268 nodes and 373 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 269 nodes and 374 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 270 nodes and 375 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 271 nodes and 376 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 271 nodes and 378 edges.
+Map()
+[loop2, 1-PDCFA] Dyck state graph: 271 nodes and 378 edges.
+Map()
+
+The analysis has taken 2 seconds.
+
+Computing statistics
+
+benchmarks/gcfa2/sat.scm
+[sat, 1-PDCFA] Dyck state graph: 2 nodes and 1 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 3 nodes and 2 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 4 nodes and 3 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 5 nodes and 4 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 6 nodes and 5 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 7 nodes and 6 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 8 nodes and 7 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 9 nodes and 8 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 10 nodes and 9 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 11 nodes and 10 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 12 nodes and 11 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 13 nodes and 12 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 14 nodes and 13 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 15 nodes and 14 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 16 nodes and 15 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 17 nodes and 16 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 18 nodes and 17 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 19 nodes and 18 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 20 nodes and 19 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 21 nodes and 20 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 22 nodes and 21 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 23 nodes and 22 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 24 nodes and 23 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 25 nodes and 24 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 26 nodes and 25 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 27 nodes and 26 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 28 nodes and 27 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 29 nodes and 28 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 30 nodes and 29 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 31 nodes and 30 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 32 nodes and 31 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 33 nodes and 32 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 34 nodes and 33 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 35 nodes and 34 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 36 nodes and 35 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 37 nodes and 36 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 38 nodes and 37 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 39 nodes and 38 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 40 nodes and 39 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 41 nodes and 40 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 42 nodes and 41 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 43 nodes and 42 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 44 nodes and 43 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 45 nodes and 44 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 46 nodes and 45 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 47 nodes and 46 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 48 nodes and 47 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 49 nodes and 48 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 50 nodes and 49 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 52 nodes and 51 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 54 nodes and 53 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 56 nodes and 55 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 58 nodes and 57 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 60 nodes and 59 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 62 nodes and 61 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 64 nodes and 63 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 66 nodes and 65 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 68 nodes and 67 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 70 nodes and 69 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 72 nodes and 72 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 77 nodes and 77 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 79 nodes and 82 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 83 nodes and 87 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 88 nodes and 92 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 93 nodes and 98 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 98 nodes and 105 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 105 nodes and 112 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 111 nodes and 118 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 118 nodes and 126 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 129 nodes and 137 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 138 nodes and 148 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 153 nodes and 163 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 167 nodes and 179 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 181 nodes and 193 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 195 nodes and 207 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 213 nodes and 225 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 228 nodes and 243 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 243 nodes and 258 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 258 nodes and 273 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 271 nodes and 291 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 292 nodes and 312 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 306 nodes and 337 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 334 nodes and 371 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 354 nodes and 405 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 378 nodes and 437 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 404 nodes and 482 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 450 nodes and 535 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 483 nodes and 595 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 518 nodes and 645 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 562 nodes and 702 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 622 nodes and 771 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 668 nodes and 855 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 737 nodes and 933 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 788 nodes and 1006 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 838 nodes and 1068 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 920 nodes and 1153 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 983 nodes and 1239 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1066 nodes and 1323 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1164 nodes and 1447 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1246 nodes and 1560 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1321 nodes and 1651 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1447 nodes and 1792 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1524 nodes and 1927 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1626 nodes and 2036 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1712 nodes and 2140 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1802 nodes and 2252 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 1945 nodes and 2405 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 2043 nodes and 2556 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 2162 nodes and 2714 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 2380 nodes and 2968 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 2513 nodes and 3206 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 2701 nodes and 3515 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 3101 nodes and 3995 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 3343 nodes and 4439 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 3594 nodes and 4828 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 4060 nodes and 5408 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 4395 nodes and 5918 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 4779 nodes and 6374 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 5405 nodes and 7114 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 5838 nodes and 7805 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 6498 nodes and 8513 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 7291 nodes and 9518 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 7940 nodes and 10505 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 8849 nodes and 11573 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 9789 nodes and 12856 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 10867 nodes and 14431 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 12384 nodes and 16457 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 13342 nodes and 18163 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 14857 nodes and 20212 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 16998 nodes and 23212 edges.
+Map()
+[sat, 1-PDCFA] Dyck state graph: 18543 nodes and 25555 edges.
+Map()
+benchmarks/larceny/ack.sch
+benchmarks/larceny/cpstak.sch
+benchmarks/larceny/tak.sch
